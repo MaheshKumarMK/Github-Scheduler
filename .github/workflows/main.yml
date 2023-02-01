@@ -1,5 +1,5 @@
 name: run main.py
-[![run main.py](https://github.com/MaheshKumarMK/Github-Scheduler/actions/workflows/main.yml/badge.svg)](https://github.com/MaheshKumarMK/Github-Scheduler/actions/workflows/main.yml)
+
 on:
   schedule:
     - cron: '1 * * * *' 
